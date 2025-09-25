@@ -19,10 +19,24 @@
 
 ---
 
-### 📊 GitHub 통계 및 활동
+### 🚀 진행 중인 프로젝트 (Current Projects)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonDoe&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonDoe&layout=compact&theme=default&hide_border=true)
+- **lookmans**
+  - **설명**: [간단한 프로젝트 설명. 예: React와 Django를 사용한 온라인 쇼핑몰 플랫폼 개발]
+  - **주요 기능**: [기능 리스트]
+    - 사용자 인증 시스템
+    - 상품 등록 및 관리
+    - 결제 시스템 연동
+  - **기술 스택**: `React`, `Django`, `PostgreSQL`
+  - **바로가기**: [🔗 Repo Link](https://github.com/당신의_사용자명/프로젝트_이름)
+    
+---
+
+### 📝 최근 GitHub 활동 (Recent Activity)
+
+[![JhonDoe's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=당신의_사용자명&bg_color=ffffff&color=000000&line=000000&point=000000&hide_title=true&hide_border=true)](https://github.com/당신의_사용자명)
+
+- **주요 기여**: `최근 기여한 리포지토리 이름`
 
 ---
 
@@ -30,3 +44,9 @@
 
 - **Email**: <kdobro92@gmail.com>
 - **블로그**: [Kdobro Blog](https://velog.io/@kdobro92/posts)
+
+---
+
+### ✨ 현재 상태
+[![Working](https://img.shields.io/badge/Status-Working-blue.svg)](https://your-website.com)
+[![Learning](https://img.shields.io/badge/Learning-TypeScript-red.svg)]()
