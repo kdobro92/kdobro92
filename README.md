@@ -33,20 +33,6 @@ React와 Java 중심의 웹 개발에 주력하고 있으며,
 
 ---
 
-## 🚀 Projects  
-
-### 🔹 lookmans  
-📝 **React와 Node.js 기반의 미용실 서비스 홈페이지**  
-
-✨ **주요 기능**  
-- OpenAI를 활용한 **AI 스타일링 추천**  
-- Redis 기반의 **실시간 채팅 상담**  
-
-⚙️ **기술 스택**: `React`, `Node.js`, `Redis`  
-🔗 **Repo**: [GitHub Link](https://github.com/dobro92/lookmans)  
-
----
-
 <div align="center">
 
 ## ✨ Status  
