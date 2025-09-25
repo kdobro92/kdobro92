@@ -1,56 +1,53 @@
-# 👋 Hi, I'm **kdobro**  
-
-💻 웹 개발을 좋아하는 주니어 개발자입니다.  
-React와 Java 중심의 웹 개발에 주력하고 있으며,  
-**효율적인 코드**와 **가독성**을 중요하게 생각합니다.  
-새로운 기술을 배우고 적용하는 것을 즐깁니다 ✨  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 🚀 DevOps / Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
+<div class="header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61DAFB&text=kdobro's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="kdobro's GitHub">
+</div>
 
 <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+  
+  <div align="center">
+    <a href="https://velog.io/@kdobro92/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+    </a>
+    <a href="mailto:kdobro92@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+  </div><br>
 
-## ✨ Status  
+  <h2 align="center">📧 Email 📧</h2>
+  <p align="center">
+    <strong>kdobro92@gmail.com</strong>
+  </p><br>
 
-![Working](https://img.shields.io/badge/Status-Working-blue.svg)  
-![Learning](https://img.shields.io/badge/Learning-Node.js-green.svg)  
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+  <div style="margin: 0 auto; text-align: center;" align="center">
+    <!-- Frontend -->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <br/>
+    <!-- Backend -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <br/>
+    <!-- Database -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <br/>
+    <!-- DevOps / Tools -->
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </div><br>
 
----
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 
-## 📫 Contact  
-
-📧 **Email**: <kdobro92@gmail.com>  
-📝 **Blog**: [kdobro Blog](https://velog.io/@kdobro92/posts)  
-
----
-
-## 👀 Visitor Count  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kdobro92&color=blue)  
+  ![kdobro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdobro92&show_icons=true&theme=radical)  
 
 </div>
