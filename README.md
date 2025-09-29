@@ -46,8 +46,4 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div><br>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-
-  ![kdobro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdobro92&show_icons=true&theme=radical)  
-
 </div>
